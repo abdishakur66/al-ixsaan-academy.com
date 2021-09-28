@@ -1,0 +1,830 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+input{
+    margin-left: 570px;
+    width: 260px;
+    border-radius: 10px;
+    height: 30px;
+  margin-top: 7px;
+  color: white;
+  border :1px  blue;
+  background-color: rgba(228, 171, 48, 0.466);
+  outline: none;
+  color: black;
+  box-shadow: blueviolet 10px;
+  text-shadow: aliceblue;
+ 
+}
+header{
+    background-color:rgb(252, 252, 252);
+    display: flex;
+    width: 1369px;
+    height: 50px;
+    border: 1px solid;
+
+   
+}
+img{
+    width: 50px;
+    padding-left: 20px;
+    height:50px ;
+    
+}
+.faras{
+    color: rgb(26, 23, 23); 
+    font-style:;
+    padding-left: 20px;
+    font-size: 20px;
+    padding-top: 10px;
+}
+header ul  {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    margin-left: 10px;
+    color: rgb(22, 21, 21);
+    position: absolute;
+    top: 11px;
+    right: 550px;
+
+}
+header ul li {
+    margin-left: 20px;
+    top: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+    
+    
+header ul li .se{
+    color: rgb(189, 33, 33);
+}
+
+header ul :hover{
+     text-decoration:underline;
+    color: brown;
+
+}
+header ul li a{
+    color: rgb(19, 17, 17);
+    text-decoration: none;
+    
+}
+header ul li .se{
+    color: rgb(82, 62, 62);
+}
+ header div ul{
+     right: 100px;
+    
+
+}
+div .sin .ko :hover{
+ color: rgb(22, 21, 21);
+}
+div .sin .ko button{
+    border-radius: 30px;
+    border: tomato;
+    background-color: orange;
+    color: white;
+    width: 50px;
+    height: 30px;
+
+}
+
+
+body{
+    background-image: url(bACKGROUNDS/home-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mad{
+    justify-content: center;
+    flex-flow: column;
+     margin-left: 500px;
+     margin-top: 230px;
+
+}
+.ga{
+    color: black;
+
+}
+div .de button{
+    text-align: center;
+    margin-left: 130px;
+    background-color: rgb(228, 149, 3);
+    size: 60px;
+    width: 100px;
+    padding: 8px;
+    border-radius: 10px;
+    color: rgba(255, 255, 255, 0.938);
+    font-size: 20px;
+    border: none;
+    margin-top: 10px;
+}
+}
+div .ga {
+    padding: 10PX;
+    font-style:
+    
+}
+div p{
+    padding: 10px;
+    margin-left: 35px;
+}
+div .de{
+    padding: 10px;
+   
+}
+div .de :hover{
+    color: black;
+}
+.la{
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+   margin-left: -30px;
+   outline: none;
+   border: 1px solid black;
+   margin-top: 1px;
+   position: absolute;
+   margin-top: 6.9px;
+}
+header ul li .se{
+    color: crimson;
+}
+/* about */
+header ul li .ya{
+    color: crimson;
+}
+
+header ul li .ja{
+    color
+}
+.guud{
+    background-image: url(about/4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    backgroun-possion: center;
+     
+}
+.guude{
+    position: absolute;
+    text-align: center;
+    margin-top: 30px;
+}
+.daad{
+    margin-top: 30px;
+    position: absolute;
+    font-size: 30px;
+    margin-left: 28px;
+
+}
+
+.hrd{
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    margin-top: 69px;
+    margin-left: 600px;
+}
+.sawr{
+    margin-top: 90px;
+   width: 110px;
+   height: 100;
+
+}
+.ap{
+    font-size: 25px;
+    margin-right: 10px;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: orange;
+    border: none;
+    outline-style: none;
+    margin: 5px;
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+    padding: 3px;
+    font-size: 15px;
+    padding-bottom: 2px;
+}
+.btn a:hover{
+    color: black;
+}
+.pos{
+    display: flex;
+    align-items: center;
+    margin-left: 495px;
+    list-style: none;
+    padding-top: 30px;
+    border-radius: 10px;
+    
+    
+
+}
+.pos .lis a .fa{
+    padding: 10px;
+    background-color: tomato;
+    color: white;
+    border-radius: 60px;
+    
+}
+.pos .lis a{ 
+    padding:20px ;
+}
+.pos .lis a .fa:hover{
+    color:rgb(20, 5, 73);
+}
+
+/* teachers */
+
+.guud{
+    position: -ms-page;
+}
+.ta{
+    color: black;
+}
+.ra{
+    color: red;
+}
+.tcrs{
+  position: absolute;
+  display: flex;
+  margin: 10px;
+  padding: 10px; 
+  margin-top: 50px;
+
+}
+.tc1{
+    width: 500px;
+    height: 250px;
+    background-color: rgb(231, 219, 219);
+    border-radius: 10px;
+    border-bottom-style: groove;
+    border-top-style: groove;
+}
+.rah{
+    width: 250px;
+    height: 220px;
+    margin-left: -20px;
+    position: absolute;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.tc1h1{
+    position: absolute;
+    margin-left: 260px;
+    font-size: 20px;
+    margin-top:15px ;
+    color: rgb(24, 21, 21);
+}
+.tc1h3{
+    position: absolute;
+    margin-left: 260px;
+    font-size: 25px;
+    margin-top:50px ;
+    font-size: 15px;
+    color: rgb(228, 12, 4);
+}
+.tc1p{
+    position: absolute;
+    margin-left: 250px;
+    font-size: 25px;
+    margin-top:70px ;
+    font-size: 20px;
+    color: rgba(64, 46, 70, 0.849);
+}
+.sab{ 
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 200px;
+    display: flex;
+}
+.sal{
+    list-style: none;
+    padding: 10px;
+} 
+.sab .sal a:hover{
+    color: rgb(247, 6, 6);
+}
+
+.TC2{
+    width: 500px;
+    height: 250px;
+    background-color: rgb(231, 219, 219);
+    margin-left: 10px;
+    border-radius: 10px;
+    border-bottom-style: groove;
+    border-top-style: groove;
+
+}
+.fah{
+    width: 250px;
+    height: 220px;
+    position: absolute;
+    margin-top:15px;
+    border-radius:10px;
+    margin-left: -20px;
+}
+.tc2h1{
+    position: absolute;
+    margin-left: 260px;
+    font-size: 20px;
+    margin-top:15px ;
+    color: rgb(24, 21, 21);
+
+}
+.tc2h3{
+    position: absolute;
+    margin-left: 260px;
+    font-size: 25px;
+    margin-top:50px ;
+    font-size: 15px;
+    color: rgb(228, 12, 4);
+    display: flex;
+
+}
+.tc2p{
+    position: absolute;
+    margin-left: 250px;
+    font-size: 25px;
+    margin-top:70px ;
+    font-size: 20px;
+    color: rgba(64, 46, 70, 0.849);
+    display: flex;
+}
+.sad{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 200px;
+    display: flex;
+}
+.saf{
+    list-style: none;
+    padding: 10px;
+}
+.sad .saf a:hover{
+    color: rgb(250, 10, 10);
+}
+.tc3{
+    margin-top: 270px;
+ position: absolute;
+ width: 500px;
+    height: 250px;
+    background-color: rgb(231, 219, 219);
+    margin-left: 1px;
+    border-radius: 10px;
+    border-bottom-style: groove;
+    border-top-style: groove;
+}
+.Nah{
+    width: 240px;
+    height: 220px;
+    position: absolute;
+    margin-top:15px;
+    border-radius:10px;
+    margin-left: -15px;
+}
+.tc3h1{
+    position: absolute;
+    margin-left: 260px;
+    font-size: 20px;
+    margin-top:15px ;
+    color: rgb(24, 21, 21);
+}
+.tc3h3{
+    position: absolute;
+    margin-left: 260px;
+    font-size: 25px;
+    margin-top:50px ;
+    font-size: 15px;
+    color: rgb(228, 12, 4);
+    display: flex;
+}
+.tc3p{
+    position: absolute;
+    margin-left: 250px;
+    font-size: 25px;
+    margin-top:70px ;
+    font-size: 20px;
+    color: rgba(64, 46, 70, 0.849);
+    display: flex;
+}
+.gad{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 200px;
+    display: flex;
+}
+.laf{
+    list-style: none;
+    padding: 10px;
+}
+.gad .laf a:hover{
+   color: rgb(247, 6, 6);
+}
+.TC4{
+    width: 500px;
+    height: 250px;
+    background-color: rgb(231, 219, 219);
+    border-radius: 10px;
+    border-bottom-style: groove;
+    border-top-style: groove;
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 510px;
+
+}
+.Dah{
+    width: 240px;
+    height: 220px;
+    position: absolute;
+    margin-top:15px;
+    border-radius:10px;
+    margin-left: -15px;
+}
+.tc4h1{
+    position: absolute;
+    margin-left: 260px;
+    font-size: 20px;
+    margin-top:15px ;
+    color: rgb(24, 21, 21);
+}
+.tc4h3{
+    position: absolute;
+    margin-left: 260px;
+    font-size: 25px;
+    margin-top:50px ;
+    font-size: 15px;
+    color: rgb(228, 12, 4);
+    display: flex;
+}
+.tc4p{
+    position: absolute;
+    margin-left: 250px;
+    font-size: 25px;
+    margin-top:70px ;
+    font-size: 20px;
+    color: rgba(64, 46, 70, 0.849);
+    display: flex;
+}
+.wad{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 200px;
+    display: flex;
+}
+.waf{
+    list-style: none;
+    padding: 10px;
+}
+.wad .waf a:hover{
+    color: rgb(247, 6, 6);
+}
+.op{
+    position: absolute;
+    float: right;
+    margin-left: 90%;
+    margin-top: 250px;
+ 
+}
+.kis{
+    padding: 10px;
+    list-style: none;
+    background-color: rgb(247, 6, 6);
+    border-radius: 50px;
+}
+ .op .kis a .fa:hover { 
+     color: rgb(252, 252, 252);
+ 
+}
+.hag{
+    margin-left: 87%;
+    margin-top: 200px;
+    position: absolute;
+}
+/* new starts hrer */
+.one{
+    position: absolute;
+    width: 1260px;
+    height: 430px;
+    background-color: #eed6d600;
+    margin-left: 40px;
+    margin-top: 20px;
+    border: 1px solid;
+    border-radius: 10PX;
+   
+}
+.tw{
+    width: 300px;
+    height: 380px;
+    background-color: rgba(161, 179, 143, 0.473);
+    position: absolute;
+    margin-top: 31px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.thr{
+    position: absolute;
+    width: 90px;
+    height: 80px;
+    border-radius: 90px;
+   margin-top: 20px;
+   margin-left: 69px;
+   border-bottom-left-radius: 150px;
+   border-top-left-radius:150px ;
+  
+}
+.oneh1{
+    position: absolute;
+    margin-top: 110px;
+    font-size: 20px;
+    margin-left: 37px;
+    color: rgb(100, 100, 231);
+
+}
+.oneh3{
+    position: absolute;
+    margin-top: 140px ;
+    margin-left: 80px;
+    color: red;
+}
+.onep{
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 160px;
+}
+.he{
+    position: absolute;
+    list-style: none; 
+    margin-top: 300px;
+    display: flex;
+  margin-left: 10px;
+}
+.uy{
+    padding: 10px; 
+    background-color: crimson;
+    border-radius: 10px;
+    color: white;
+}
+.al{
+    padding: 10px;
+}
+.he .al:hover{
+    color: black;
+}
+.thar{
+    width: 300px;
+    height: 380px;
+    background-color: rgba(161, 179, 143, 0.473);
+    position: absolute;
+    margin-top: 31px;
+    margin-left: 20px;
+    margin-left: 320px; 
+    border-radius: 10px;
+    
+}
+.tharh1{
+    position: absolute;
+    margin-top: 110px;
+    font-size: 20px;
+    margin-left: 37px;
+    color: blue;
+}
+.FOUR{
+        width: 300px;
+        height: 380px;
+        background-color: rgba(161, 179, 143, 0.473);
+        position: absolute;
+        margin-top: 31px;
+        margin-left:  630px;
+        border-radius: 10px;
+        
+}
+.he:hover{
+    color: black;
+}
+.five{
+    width: 300px;
+    height: 380px;
+    background-color: rgba(161, 179, 143, 0.473);
+    position: absolute;
+    margin-top: 31px;
+    margin-left:  940px;
+    border-radius: 10px;
+    
+} 
+.xaawo{
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(145, 21, 124);
+} 
+.taako{
+    color: rgb(53, 17, 138);
+}
+/* courses page starts here */
+.reda{
+     display: flex;
+     flex-wrap: wrap;
+     margin-left: 70px;
+ }
+ .uk{
+     color: rgb(230, 13, 13);
+ }
+ .ilk{
+     width: 350px;
+    background-color: rgba(162, 185, 185, 0.315);
+    height: 490px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 10px black;
+    border-radius: 10px;
+ } 
+ .ilk:hover{
+    box-sizing: border-box;
+ }
+ .res1{
+     width: 340px;
+     height: 200px;
+     margin-left: -15px;
+     justify-content: center;
+     margin-top: 7px;
+    
+ }
+ .price{
+     width: 80px;
+     height: 50px;
+     background-color: orange;
+     color: white;
+     border-radius: 90px;
+     text-align: center;
+     margin-top: -43px;
+     margin-left: 260px;
+     padding-top: 25px;
+     font-size: 25px;
+     position: relative;
+ }
+ .res2{
+     width: 100px;
+     margin-top: -30px;
+     height: 30px;
+     margin-left: -10px;
+ }
+ .oe{
+     font-family: sans-serif;
+     margin-top: 10px;
+     font-size: 20PX;
+     color: rgb(182, 11, 11);
+     margin-left: 16px;
+ }
+ .oe:hover{
+     text-decoration: underline;
+ }
+ .YU{
+     font-size: 20PX; 
+     margin-top: 10PX;
+     color: rgb(81, 102, 107);
+     font-family:inherit;
+     margin-left: 16px;
+ }
+ .rh{
+     padding-right: 30px;
+     width: 250px;
+     margin-top: 10px;
+     margin-left: 20px;
+ }
+ .puf{
+     margin-left: 45px;
+     margin-top: 5px;
+     font-size: 20px;
+ } 
+ .btn1{
+     width: 90px;
+     height: 30px;
+     margin-top: 20px;
+     margin-left: 90px;
+     font-size: 15px;
+     border-radius: 5px;
+     border: none;
+     background-color: orange ;
+     color: white; 
+     transition:  transform 0.2s ;
+ }
+ .btn1:hover{
+    color: black;
+ } 
+  /* contects strarts here  */
+  .one1{
+      background-color: rgb(65, 57, 57);
+      width: 1371px;
+      height: 559px;
+  }
+  .cnh1{
+      text-align: center;
+      font-family: sans-serif;
+      color: white;
+  } 
+  .one2 form .box-1{
+    width: 400px;
+    display: flex;
+    margin: 20px ;
+    background-color: white;
+    border-radius: 0; 
+    padding: 10px; 
+    margin-top: 30px;
+    height:60px; 
+    border: 1px solid; 
+    border-radius: 5px;  
+    margin-left: 50PX;
+ }
+ .one2 form .box-1:hover{
+     border-color: white;
+ }
+ .one2 form .box-2{
+    width: 400px;
+    display: flex;
+    margin: 20px ;
+    background-color: white;
+    border-radius: 0; 
+    padding: 10px; 
+    margin-top: -170px;
+    height:60px; 
+    border: 1px solid;
+    margin-left: 460px;
+    position: absolute; 
+    border-radius: 5px;
+ }
+ .one2 form .box-2:hover{
+     border-color: white;
+ }
+ .one2 form .box-3{
+    width: 400px;
+    display: flex;
+    margin: 20px ;
+    background-color: white;
+    border-radius: 0; 
+    padding: 10px; 
+    margin-top:-80px;
+    height:60px; 
+    border: 1px solid;
+    margin-left: 460px; 
+    border-radius: 5px; 
+ }
+.box-3:hover{
+     border-radius: white ;
+} 
+.box-massage{
+      width: 820px;
+      height: 150px;
+      margin-left: 45px ;
+      background-color: white; 
+      padding:10px; 
+      outline: none; 
+      border-radius: 3px; 
+    }
+.CAN{
+    color: rgb(248, 42, 6);
+}
+  .PK{
+      color: rgb(48, 36, 34);
+  }
+.jak{
+    width: 110px; 
+    height: 40px;
+    margin-top: 180px; 
+    margin-left: -800px;
+    position: absolute; 
+    background-color: orange;
+    border: none;
+    border-radius: 8px;
+    color:white;
+    font-size: 24px;
+} 
+.phot1{
+    width: 300px;
+    height: 400px; 
+    margin-top: -210px;
+    position: absolute;
+} 
+.footer{
+    background-color: rgb(52, 204, 231);
+    width: 1355px; position: absolute; 
+    margin-left: 0; 
+    text-align: center;
+}
+.ggg{
+    font-size: 50px;
+     text-align: center; 
+     margin-top: 300px; 
+     font-family: sans-serif; 
+     color: rgb(167, 28, 167);
+}

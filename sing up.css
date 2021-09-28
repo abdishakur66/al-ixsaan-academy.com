@@ -1,0 +1,76 @@
+body{
+    background-image: url(bACKGROUNDS/bg-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: rgba(255, 255, 255, 0.753);
+    width: 500px;
+    height: 600px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 60px;
+
+}
+div h1{ 
+    color: rgb(35, 122, 223);
+    font-family: sans-serif;
+
+}
+div .input-pox{
+    border-radius: 10px;
+    width:400px;
+    padding: 10px;
+    margin: 2px;
+    border-color:  blue;
+    outline: none;
+   
+}
+div button{
+    background-color: orange;
+    color: white;
+    width: 300px;
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+    font-size: 20px;
+
+}
+div button:hover{
+    color: black;
+}
+hr{
+    background-color: white;
+  top: 1px;
+  left: 10px;
+  right: 10px;
+
+}
+div form .fa {
+    color: rgb(202, 71, 71);
+    margin: 10px;
+    margin: 20px;
+}
+ul {
+text-align: center;
+display: flex;
+margin-left: 70px;
+margin-top: -20px;
+text-decoration: none;
+list-style: none;
+
+
+
+}
+ul .ja {
+    color: black;
+    size: 60px;
+} 
+ul li .fa :hover{
+    color: rgb(19, 17, 17);
+}
